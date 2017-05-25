@@ -9,7 +9,7 @@ public class Squarelotron {
     int[][] squarelotron;
     int size;
 
-	
+    // check check
     public Squarelotron(int n) {
 	this.size = n;
 	squarelotron = new int[n][n];
