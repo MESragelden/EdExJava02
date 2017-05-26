@@ -3,8 +3,8 @@ This repo contains the practice and assignments done for week 2 of my Java __OOP
 ## Interesting Things
 
 * **Squarelotron.java** 
- - the *primary* homework assignment for the week
+  * the *primary* homework assignment for the week
 * **Git/Eclipse** integration
- - This repo contains an entire JavaProject file 
+  * This repo contains an entire JavaProject file 
 * **Markdown**
- - is **cool**
+  * is **cool**
